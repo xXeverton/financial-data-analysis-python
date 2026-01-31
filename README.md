@@ -1,1 +1,1 @@
-# Python-for-the-financial-market-data-analysis-and-machine-learning
+# Python para o mercado financeiro, análise de dados e machine learning
